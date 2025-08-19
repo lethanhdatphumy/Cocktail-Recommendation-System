@@ -1,0 +1,294 @@
+ingredient_id,ingredients
+1,151 proof rum
+2,7-up
+3,absinthe
+4,absolut citron
+5,absolut kurant
+6,absolut peppar
+7,absolut vodka
+8,advocaat
+9,agave syrup
+10,allspice
+11,almond flavoring
+12,amaretto
+13,amaro montenegro
+14,angostura bitters
+15,anis
+16,anisette
+17,aperol
+18,apfelkorn
+19,apple
+20,apple brandy
+21,apple juice
+22,applejack
+23,apricot brandy
+24,apricot nectar
+25,asafoetida
+26,añejo rum
+27,bacardi limon
+28,baileys irish cream
+29,banana
+30,banana liqueur
+31,beer
+32,benedictine
+33,bitter lemon
+34,bitters
+35,black pepper
+36,black sambuca
+37,blackberries
+38,blackberry brandy
+39,blackcurrant cordial
+40,blackstrap rum
+41,blended scotch
+42,blended whiskey
+43,blood orange
+44,blue curacao
+45,bourbon
+46,brandy
+47,brown sugar
+48,butter
+49,butterscotch schnapps
+50,cachaca
+51,campari
+52,caramel coloring
+53,carbonated soft drink
+54,carbonated water
+55,cardamom
+56,cayenne pepper
+57,celery salt
+58,chambord raspberry liqueur
+59,champagne
+60,cherries
+61,cherry
+62,cherry brandy
+63,cherry heering
+64,cherry juice
+65,cherry liqueur
+66,chocolate
+67,chocolate liqueur
+68,chocolate syrup
+69,cider
+70,cinnamon
+71,cloves
+72,club soda
+73,coca-cola
+74,cocoa powder
+75,coconut liqueur
+76,coconut milk
+77,coconut syrup
+78,coffee
+79,coffee brandy
+80,coffee liqueur
+81,cognac
+82,cointreau
+83,condensed milk
+84,coriander
+85,corn syrup
+86,corona
+87,cranberry juice
+88,cranberry vodka
+89,cream
+90,cream of coconut
+91,creme de banane
+92,creme de cacao
+93,creme de cassis
+94,creme de mure
+95,crown royal
+96,cucumber
+97,cumin seed
+98,daiquiri mix
+99,dark rum
+100,demerara sugar
+101,dr. pepper
+102,drambuie
+103,dry vermouth
+104,dubonnet rouge
+105,egg
+106,egg white
+107,egg yolk
+108,elderflower cordial
+109,espresso
+110,everclear
+111,falernum
+112,figs
+113,firewater
+114,frangelico
+115,fresca
+116,fresh lemon juice
+117,fresh lime juice
+118,fruit
+119,fruit juice
+120,fruit punch
+121,galliano
+122,gin
+123,ginger
+124,ginger ale
+125,ginger beer
+126,ginger syrup
+127,godiva liqueur
+128,gold rum
+129,goldschlager
+130,grain alcohol
+131,grand marnier
+132,grape juice
+133,grape soda
+134,grapefruit juice
+135,green chartreuse
+136,green creme de menthe
+137,grenadine
+138,guinness stout
+139,half-and-half
+140,heavy cream
+141,honey
+142,honey syrup
+143,hot chocolate
+144,hot damn
+145,hot sauce
+146,ice
+147,iced tea
+148,irish cream
+149,irish whiskey
+150,islay single malt scotch
+151,jack daniels
+152,jagermeister
+153,jello
+154,jim beam
+155,jägermeister
+156,kahlua
+157,kiwi
+158,kiwi liqueur
+159,kool-aid
+160,lager
+161,lavender
+162,lemon
+163,lemon juice
+164,lemon peel
+165,lemon-lime soda
+166,lemonade
+167,light cream
+168,light rum
+169,lillet
+170,lillet blanc
+171,lime
+172,lime juice
+173,lime peel
+174,lime vodka
+175,limeade
+176,malibu rum
+177,mango
+178,maple syrup
+179,maraschino cherry
+180,maraschino liqueur
+181,marshmallows
+182,melon liqueur
+183,mezcal
+184,midori melon liqueur
+185,milk
+186,mint
+187,mint syrup
+188,mountain dew
+189,nutmeg
+190,olive
+191,olive brine
+192,orange
+193,orange bitters
+194,orange curacao
+195,orange juice
+196,orange peel
+197,orange spiral
+198,oreo cookie
+199,orgeat syrup
+200,ouzo
+201,papaya
+202,passion fruit juice
+203,passion fruit syrup
+204,passoa
+205,peach bitters
+206,peach brandy
+207,peach nectar
+208,peach schnapps
+209,peach vodka
+210,peachtree schnapps
+211,pepper
+212,pepsi cola
+213,pernod
+214,peychaud bitters
+215,pina colada mix
+216,pineapple
+217,pineapple juice
+218,pineapple syrup
+219,pink lemonade
+220,pisang ambon
+221,pisco
+222,pomegranate juice
+223,port
+224,powdered sugar
+225,prosecco
+226,raspberry liqueur
+227,raspberry syrup
+228,raspberry vodka
+229,red chili flakes
+230,red wine
+231,ricard
+232,root beer
+233,rose
+234,rosemary
+235,rosemary syrup
+236,rosso vermouth
+237,ruby port
+238,rum
+239,rye whiskey
+240,salt
+241,sambuca
+242,sarsaparilla
+243,schweppes russchian
+244,scotch
+245,sherbet
+246,sherry
+247,sirup of roses
+248,sloe gin
+249,soda water
+250,sour mix
+251,southern comfort
+252,soy sauce
+253,spiced rum
+254,sprite
+255,st. germain
+256,strawberries
+257,strawberry schnapps
+258,sugar
+259,sugar syrup
+260,surge
+261,sweet and sour
+262,sweet vermouth
+263,tabasco sauce
+264,tea
+265,tennessee whiskey
+266,tequila
+267,thyme
+268,tia maria
+269,tomato juice
+270,tonic water
+271,triple sec
+272,vanilla
+273,vanilla extract
+274,vanilla ice-cream
+275,vanilla syrup
+276,vermouth
+277,vodka
+278,water
+279,whipped cream
+280,whipping cream
+281,whiskey
+282,whisky
+283,white creme de menthe
+284,white rum
+285,white wine
+286,wild turkey
+287,wine
+288,worcestershire sauce
+289,wormwood
+290,yellow chartreuse
+291,yoghurt
+292,yukon jack
+293,zima
